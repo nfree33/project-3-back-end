@@ -1,0 +1,33 @@
+{
+  "name": "project-3-back-end",
+  "version": "1.0.0",
+  "description": "======= # Neil Freeman # Christina Louis-Charles # Jess Horan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfree33/project-3-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nfree33/project-3-back-end/issues"
+  },
+  "homepage": "https://github.com/nfree33/project-3-back-end#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.10.3",
+    "parser": "^0.1.4",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {}
+}
