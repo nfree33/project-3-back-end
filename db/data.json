@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Red Lobster",
+        "address": "111 Hickory Lane",
+        "likes": 55,
+        "reviews": [
+            {
+                "username": "christina",
+                "text": "Their biscuits smack"
+            }
+        ],
+        "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--kwrJZ6q3--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/wtqgmwes21mley3a5nzi.jpg"
+    },
+    {
+        "name": "Olive Garden",
+        "address": "112 Hickory Lane",
+        "likes": 55,
+        "reviews": [
+            {
+                "username": "christina",
+                "text": "Their breadsticks smack"
+            }
+        ],
+        "image_url": "https://www.dontwasteyourmoney.com/wp-content/uploads/2018/03/exterior-olive-garden.jpg"   
+    }
+]
