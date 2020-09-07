@@ -26,6 +26,7 @@ app.use(passport.initialize());
 const userController = require("./controllers/users.js");
 app.use("/users", userController);
 app.use("/api/restaurants", require("./controllers/restaurants.js"));
+app.use("/api/users", require("./controllers/users.js"));
 
 /* Controller Ends here */
 
