@@ -9,7 +9,7 @@ const User = require("../models/user");
 // User create route. AKA Signup:
 router.post("/signup", (req, res) => {
   console.log(req.body);
-  if (req.body.email && req.body.password) {
+  if (req.body.email && req.body.password && req.body.name) {
     // Hash the password:
     req.body.password = bcrypt.hashSync(
       req.body.password,
@@ -83,5 +83,13 @@ router.post("/login", (req, res) => {
     res.sendStatus(401);
   }
 });
+
+// Index route:
+router.get('/', (req, res) => {
+  User.find({}, (error, foundUsers) => {
+    if (error) console.log(error)
+    res.json(foundUsers)
+  })
+})
 
 module.exports = router;
