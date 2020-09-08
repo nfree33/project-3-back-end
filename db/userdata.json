@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Test",
+        "email": "test@test.com",
+        "password": "test",
+        "photo": "",
+        "favorites": "[]"
+    },
+    {
+        "name": "Test2",
+        "email": "test2@test.com",
+        "password": "test2",
+        "photo": "",
+        "favorites": "[]"
+    }
+]
