@@ -2,6 +2,7 @@
     {
         "name": "BK9",
         "address": "62 5th Ave, Brooklyn, NY 11217",
+        "city": "Brooklyn",
         "likes": 1207,
         "reviews": [
             {
@@ -14,6 +15,7 @@
     {
         "name": "Sweet Chicks",
         "address": "178 Ludlow St, New York, NY 10002",
+        "city": "Brooklyn",
         "likes": 35,
         "reviews": [
             {
@@ -26,6 +28,7 @@
     {
         "name": "Bleu Fin Bar and Grill",
         "address": "637 Nostrand Ave, Brooklyn, NY 11216",
+        "city": "Brooklyn",
         "likes": 67,
         "reviews": [
             {
@@ -38,6 +41,7 @@
     {
         "name": "Root Hill Cafe",
         "address": "262 4th Ave, Brooklyn, NY 11215",
+        "city": "Brooklyn",
         "likes": 32,
         "reviews": [
             {
@@ -50,6 +54,7 @@
     {
         "name": "Imani Kitchen and Bar",
         "address": "271 Adelphi St, Brooklyn, NY 11205",
+        "city": "Brooklyn",
         "likes": 1201,
         "reviews": [
             {
@@ -62,6 +67,7 @@
     {
         "name": "Lakou Cafe",
         "address": "195 Utica Ave, Brooklyn, NY 11213",
+        "city": "Brooklyn",
         "likes": 78,
         "reviews": [
             {
@@ -74,6 +80,7 @@
     {
         "name": "SugarCane",
         "address": "238 Flatbush Ave, Brooklyn, NY 11217",
+        "city": "Brooklyn",
         "likes": 197,
         "reviews": [
             {
@@ -86,6 +93,7 @@
     {
         "name": "Negril BK",
         "address": "256 5th Ave, Brooklyn, NY 11215",
+        "city": "Brooklyn",
         "likes": 989,
         "reviews": [
             {
@@ -98,6 +106,7 @@
     {
         "name": "Lemongrass Grill",
         "address": "156 Court St, Brooklyn, NY 11201",
+        "city": "Brooklyn",
         "likes": 44,
         "reviews": [
             {
@@ -110,6 +119,7 @@
     {
         "name": "333 Lounge",
         "address": "333 Flatbush Ave, Brooklyn, NY 11217",
+        "city": "Brooklyn",
         "likes": 1182,
         "reviews": [
             {
@@ -122,6 +132,7 @@
     {
         "name": "Greedi Vegan",
         "address": "1031 Bergen St, Brooklyn, NY 11216",
+        "city": "Brooklyn",
         "likes": 277,
         "reviews": [
             {
@@ -134,6 +145,7 @@
     {
         "name": "The Crabby Shack",
         "address": "613 Franklin Ave, Brooklyn, NY 11238",
+        "city": "Brooklyn",
         "likes": 1004,
         "reviews": [
             {
@@ -146,6 +158,7 @@
     {
         "name": "Soco",
         "address": "509 Myrtle Ave, Brooklyn, NY 11205",
+        "city": "Brooklyn",
         "likes": 1225,
         "reviews": [
             {
@@ -158,6 +171,7 @@
     {
         "name": "Savvy Bisro and Bar",
         "address": "710 Nostrand Ave, Brooklyn, NY 11216",
+        "city": "Brooklyn",
         "likes": 989,
         "reviews": [
             {
@@ -170,6 +184,7 @@
     {
         "name": "Toro Boston",
         "address": "1704 Washington St, Boston, MA 02118",
+        "city": "Boston",
         "likes": 278,
         "reviews": [
             {
@@ -182,6 +197,7 @@
     {
         "name": "Sorellina",
         "address": "1 Huntington Ave, Boston, MA 02116",
+        "city": "Boston",
         "likes": 484,
         "reviews": [
             {
@@ -194,6 +210,7 @@
     {
         "name": "Saltie Girl",
         "address": "281 Dartmouth St, Boston, MA 02116",
+        "city": "Boston",
         "likes": 208,
         "reviews": [
             {
@@ -206,6 +223,7 @@
     {
         "name": "Mistral",
         "address": "223 Columbus Ave, Boston, MA 02116",
+        "city": "Boston",
         "likes": 397,
         "reviews": [
             {
@@ -218,6 +236,7 @@
     {
         "name": "Yvonne's",
         "address": "2 Winter Pl, Boston, MA 02108",
+        "city": "Boston",
         "likes": 786,
         "reviews": [
             {
@@ -230,6 +249,7 @@
     {
         "name": "Ostra",
         "address": "1 Charles St S, Boston, MA 02116",
+        "city": "Boston",
         "likes": 294,
         "reviews": [
             {
@@ -242,6 +262,7 @@
     {
         "name": "Chavela's",
         "address": "736 Franklin Ave, Brooklyn, NY 11238",
+        "city":"Brooklyn",
         "likes": 1000,
         "reviews": [
             {
@@ -254,6 +275,7 @@
     {
         "name": "The Capital Grille",
         "address": "900 Boylston St, Boston, MA 02115",
+        "city": "Boston",
         "likes": 698,
         "reviews": [
             {
@@ -266,6 +288,7 @@
     {
         "name": "Mamma Maria",
         "address": "3 N Square, Boston, MA 02113",
+        "city": "Boston",
         "likes": 1091,
         "reviews": [
             {
@@ -278,6 +301,7 @@
     {
         "name": "The Hawthorne",
         "address": "500 A Commonwealth Avenue, Boston, MA 02215",
+        "city": "Boston",
         "likes": 423,
         "reviews": [
             {
@@ -290,6 +314,7 @@
     {
         "name": "Bukowski Tavern",
         "address": "50 Dalton St, Boston, MA 02115",
+        "city": "Boston",
         "likes": 157,
         "reviews": [
             {
@@ -302,6 +327,7 @@
     {
         "name": "Bleacher Bar",
         "address": "82A Lansdowne St, Boston, MA 02215",
+        "city": "Boston",
         "likes": 777,
         "reviews": [
             {
@@ -314,6 +340,7 @@
     {
         "name": "Carson's Kitchen",
         "address": "124 S 6th St #100, Las Vegas, NV 89101",
+        "city": "Las Vegas",
         "likes": 876,
         "reviews": [
             {
@@ -326,6 +353,7 @@
     {
         "name": "Andiamo Italian Steakhouse",
         "address": "301 Fremont St, Las Vegas, NV 89101",
+        "city": "Las Vegas",
         "likes": 654,
         "reviews": [
             {
@@ -338,6 +366,7 @@
     {
         "name": "107 Sky Lounge",
         "address": "2000 Las Vegas Blvd S, Las Vegas, NV 89104",
+        "city": "Las Vegas",
         "likes": 1024,
         "reviews": [
             {
@@ -350,6 +379,7 @@
     {
         "name": "Bound Bar Las Vegas",
         "address": "The Cromwell, 3595 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "city": "Las Vegas",
         "likes": 1675,
         "reviews": [
             {
@@ -362,6 +392,7 @@
     {
         "name": "Frankie's Tiki Room",
         "address": "1712 W Charleston Blvd, Las Vegas, NV 89102",
+        "city": "Las Vegas",
         "likes": 1124,
         "reviews": [
             {
@@ -374,6 +405,7 @@
     {
         "name": "Milennuim Fandom Bar",
         "address": "900 S Las Vegas Blvd #140, Las Vegas, NV 89101",
+        "city": "Las Vegas",
         "likes": 1287,
         "reviews": [
             {
@@ -386,6 +418,7 @@
     {
         "name": "Rosina",
         "address": "3325 S Las Vegas Blvd, Las Vegas, NV 89109",
+        "city": "Las Vegas",
         "likes": 44,
         "reviews": [
             {
@@ -398,6 +431,7 @@
     {
         "name": "Scholars American Bistro and Cocktail Lounge",
         "address": "25 School St, Boston, MA 02108",
+        "city": "Boston",
         "likes": 87,
         "reviews": [
             {
@@ -410,6 +444,7 @@
     {
         "name": "Rooftop @ Revere",
         "address": "200 Stuart St, Boston, MA 02116",
+        "city": "Boston",
         "likes": 1348,
         "reviews": [
             {
