@@ -125,7 +125,7 @@ router.post("/", (req, res) => {
 });
 
 // Edit Route
-router.get('/:id/edit', (req,res) => {
+router.get('/edit/:id', (req,res) => {
   // Find our document from the collection - using mongoose model
   User.findById(req.params.id, (err, foundUser) => {
     error ? res.status(404).json(error) : res.status(200).json(foundUser);

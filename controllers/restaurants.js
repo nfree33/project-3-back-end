@@ -13,7 +13,7 @@ router.get("/", (req, res) => {
 // Delete
 router.delete("/:id", (req, res) => {
   // Delete document from collection
-  Restaurant.findByIdAndRemove(req.params.id, (err, restaurant) => {
+  Restaurant.findByIdAndRemove(req.params.id, (error, restaurant) => {
     error ? res.status(404).json(error) : res.status(200).json(restaurant);
   });
 });
